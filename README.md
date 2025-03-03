@@ -1,2 +1,2 @@
-# Pythob-project
+# Python-project
 Python
